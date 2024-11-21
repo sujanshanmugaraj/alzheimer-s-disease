@@ -1,62 +1,81 @@
-Social networks in mild-to-moderate Alzheimer disease: longitudinal relationships with dementia severity, cognitive function, and adverse events
-Chaithanya N (22PD09)
-Sujan S (22PD35)
-______________________________________________________________________________
+**Social networks in mild-to-moderate Alzheimer disease: longitudinal relationships with dementia severity, cognitive function, and adverse events**_____________________________________________________
 
 
-The Research Paper
+# The Research Paper
 
 The study explores the impact of social networks on dementia progression, cognitive function, and adverse events in individuals with mild-to-moderate Alzheimer's disease (AD), focusing on how network size and quality may affect patient outcomes over time. 
+
 ●	Social Network: Assessed via the Lubben Social Network Scale, which measures engagement with family and friends.
+
 ●	Dementia Severity: Evaluated using the Clinical Dementia Rating - Sum of Boxes (CDR-Sb), gauging the severity of AD symptoms.
+
 ●	Cognitive Function: Measured by the Alzheimer’s Disease Assessment Scale (ADAS-Cog).
+
 ●	Adverse Events: Defined as significant health complications or hospitalizations, tracked throughout the study.
+
 Key findings include a correlation between poor social networks and higher dementia severity but not with cognitive impairment. Additionally, baseline dementia severity was found to predict a reduction in social network size over time, with poor networks linked to higher rates of adverse events
 _________________________________________________
 
 
 
 
-Introduction
-Background
+# Introduction
+
+# Background
+
 Alzheimer’s disease (AD) is a debilitating neurodegenerative disorder that progressively impairs cognitive function, memory, and the ability to perform everyday tasks. Affecting millions of individuals worldwide, AD is the most common cause of dementia, with its prevalence steadily increasing due to the aging global population. As a chronic and incurable condition, Alzheimer's disease imposes a heavy burden not only on the individuals affected but also on their families, caregivers, and healthcare systems. The progressive nature of the disease leads to a gradual decline in cognitive abilities, leaving individuals increasingly dependent on their social and physical environments.
+
 In the context of aging and dementia, the preservation of cognitive health is essential to maintaining independence and quality of life. Recent studies suggest that social networks—defined by the size, strength, and quality of social interactions—play a significant role in mitigating the effects of cognitive decline. For older adults, especially those diagnosed with Alzheimer’s disease, maintaining strong social connections may slow the progression of cognitive impairments. Engaging in meaningful social relationships has been shown to support mental well-being, encourage cognitive stimulation, and potentially contribute to building cognitive reserve, which could delay the onset or slow the progression of AD symptoms.
-Problem Statement
+
+# Problem Statement
+
 Despite growing evidence highlighting the benefits of social networks in preventing or delaying cognitive decline, their impact on individuals with an established diagnosis of Alzheimer’s disease is less clear. People with mild-to-moderate Alzheimer’s disease are particularly vulnerable to social isolation as their condition progresses, potentially leading to accelerated cognitive deterioration and an increased risk of adverse health events such as hospitalizations, falls, or worsening symptoms.
 A study on "Social Networks in Mild-to-Moderate Alzheimer’s Disease" explores the longitudinal relationships between social networks and dementia severity. It reveals that individuals with poorer social networks tend to experience faster dementia progression, though these relationships are complex. Social isolation may not directly cause cognitive decline, but rather, the worsening of cognitive and physical health may lead to diminished social engagement. Additionally, poor social networks have been associated with a higher likelihood of experiencing serious adverse health events, making this a critical issue for healthcare providers and caregivers to address.
-This study is crucial because it sheds light on the interplay between social networks and cognitive health in AD patients, emphasizing the importance of social engagement as part of comprehensive dementia care. Understanding these dynamics can help develop interventions aimed at maintaining or strengthening social ties to improve outcomes for individuals with Alzheimer’s disease.
-Objectives
+This study is crucial because it sheds light on the interplay between social networks and cognitive health in AD patients, emphasizing the importance of social engagement as part of comprehensive dementia care. Understanding these dynamics can help develop interventions aimed at maintaining or strengthening social ties to improve outcomes 
+for individuals with Alzheimer’s disease.
+
+# Objectives
+
 The primary objective of this study is to investigate the relationships between social networks, cognitive function, dementia severity, and adverse events in individuals diagnosed with mild-to-moderate Alzheimer’s disease. Using data ,which assessed the efficacy of Nilvadipine in slowing AD progression, this analysis focuses on how social networks, measured through the Lubben Social Network Scale (LSNS), are associated with cognitive outcomes (using the Alzheimer’s Disease Assessment Scale-Cognitive Subscale [ADAS-Cog]) and dementia severity (measured by the Clinical Dementia Rating-Sum of Boxes [CDR-Sb]). Additionally, the study aims to evaluate how poor social networks contribute to the likelihood of adverse health events over time.
 By examining these relationships, this research aims to provide valuable insights into how social networks may influence the course of Alzheimer’s disease and highlight the need for targeted social interventions to support patients and mitigate negative health outcomes.
 __________________________________________________________
 
-Methods
+# Methods
+
 Study Design
+
 This study is an analysis of data, a phase-3, multi-center investigation aimed at assessing the efficacy of Nilvadipine, a calcium channel blocker, in slowing the progression of Alzheimer’s disease (AD). The trial involved 464 participants across nine European countries, all diagnosed with mild-to-moderate Alzheimer’s disease. Participants were eligible if they met specific inclusion criteria, including a Mini-Mental State Examination (MMSE) score between 12 and 26, indicating mild to moderate cognitive impairment. In addition to the cognitive decline, participants were required to have an informant, such as a family member or caregiver, who interacted with them face-to-face at least three times a week.
 The trial collected data at baseline and again after 18 months of follow-up, providing a longitudinal view of dementia progression. Cognitive health was assessed using two key measures: the Alzheimer’s Disease Assessment Scale-Cognitive Subscale (ADAS-Cog) and the Clinical Dementia Rating-Sum of Boxes (CDR-Sb). These tools allowed researchers to evaluate changes in both cognitive performance and overall dementia severity over time. Social network data were also collected at both time points using the Lubben Social Network Scale-6 (LSNS-6), providing valuable insights into the participants’ social environments and how these might influence their disease trajectories.
 Social Networks Measurement
 The Lubben Social Network Scale (LSNS-6) was employed to measure the social networks of participants. This validated instrument is designed to assess the size, strength, and functionality of social networks, focusing on two primary components: family and friendship ties. The scale includes six questions, three related to family interactions and three to friendships. Questions addressed aspects such as the frequency of contact with family members or friends, the level of comfort in confiding in them, and whether participants could rely on them for help.
 Each question was scored on a scale of 0 to 5, with higher scores indicating stronger social networks. A total LSNS score ranging from 0 to 30 was computed by summing all six responses. To capture more detailed social network data, participants’ scores were divided into quartiles, with those in the lowest quartile classified as having a poor social network. This classification allowed the study to explore how variations in social network size and quality impacted cognitive decline and other health outcomes in the context of Alzheimer’s disease.
-Data Analysis
+
+# Data Analysis
+
 The data analysis employed a range of statistical methods to explore the relationships between social networks, cognitive function, dementia severity, and adverse health outcomes. Mixed-effects linear regression models were used to assess the association between social network scores and both cognitive function (ADAS-Cog scores) and dementia severity (CDR-Sb scores). These models accounted for repeated measures over time, controlling for individual differences and adjusting for potential confounding variables such as age, gender, education level, and the duration of dementia symptoms.
 Additionally, Poisson models were utilized to examine the relationship between poor social networks and the likelihood of experiencing adverse events, such as hospitalizations or serious medical complications. These models allowed researchers to evaluate how social isolation may contribute to negative health outcomes in Alzheimer’s patients, adjusting for variables like comorbidities and medication use. By combining these statistical approaches, the study aimed to provide a comprehensive understanding of how social networks impact the progression of Alzheimer’s disease and the overall well-being of individuals diagnosed with the condition.
 The analysis further explored whether baseline dementia severity predicted a decline in social networks over time. To assess this, changes in LSNS-6 scores between baseline and 18 months were examined, with dementia severity at baseline used as a key independent variable.
 __________________________________________________________
 
-Results
+# Results
+
 Social Networks and Dementia Severity
 The analysis revealed a significant relationship between poor social networks and increased dementia severity at baseline. Participants with weaker social networks, as measured by the Lubben Social Network Scale (LSNS-6), exhibited higher Clinical Dementia Rating-Sum of Boxes (CDR-Sb) scores, indicating more advanced dementia. This association underscores the critical role that social engagement plays in the lives of individuals with Alzheimer’s disease (AD).
 Baseline characteristics of the participants showed a broad demographic range. The mean age was approximately 73 years, with the majority being female. Participants with poor social networks were typically older, had been living with the symptoms of dementia for a longer period, and had more severe dementia at the time of enrollment. Notably, those in the lowest quartile for social network size were more likely to have higher CDR-Sb scores, reflecting greater functional impairments and cognitive deficits. This correlation suggests that individuals with diminished social interactions may be more vulnerable to faster dementia progression, possibly due to reduced opportunities for cognitive stimulation and emotional support.
+
 Cognitive Decline and Social Networks
 While poor social networks were strongly associated with increased dementia severity, they did not predict a direct decline in cognitive performance as measured by the Alzheimer’s Disease Assessment Scale-Cognitive Subscale (ADAS-Cog). Over the 18-month follow-up period, cognitive function declined across the cohort, but participants with poor social networks did not experience significantly worse cognitive outcomes than those with more robust social ties.
 Interestingly, it was found that greater baseline dementia severity, rather than poor social networks, predicted a decline in social network size over the study period. Participants with more severe dementia at baseline saw a greater reduction in their social engagement over 18 months, suggesting a reciprocal relationship between social interaction and cognitive health. As dementia progresses, individuals may withdraw from social activities or find it harder to maintain relationships, which, in turn, can exacerbate their cognitive and emotional decline. This finding highlights the complexity of the relationship between social networks and cognitive health in AD, where the disease itself may lead to a shrinking social circle, rather than the absence of social ties directly causing cognitive decline.
 Adverse Events
+
 A key finding from the analysis was the significant association between poor social networks and an increased likelihood of experiencing serious adverse events. Over the 18-month period, participants with weaker social networks were notably more likely to face medical complications such as hospitalizations, falls, and other serious health issues. The analysis indicated that social isolation may contribute to poorer overall health outcomes in individuals with Alzheimer’s disease.
+
 Those with limited social networks were at a greater risk for adverse events, even after adjusting for factors like age, gender, comorbidities, and medication use. The findings suggest that individuals with poor social support systems may lack the necessary resources, supervision, or intervention that could prevent these events. Socially isolated individuals may also experience greater psychological distress, which could lead to worsened physical health. This underscores the need for comprehensive care strategies that include not only medical interventions but also social support systems to improve outcomes for patients with Alzheimer’s disease.
+
 In summary, the results of this study emphasize the critical role social networks play in the health and well-being of individuals with Alzheimer’s disease. Poor social networks are associated with increased dementia severity, a higher likelihood of adverse events, and a decline in social engagement as the disease progresses. However, the relationship between social networks and cognitive decline is complex, with dementia severity itself contributing to social isolation over time. These findings highlight the importance of interventions that maintain or strengthen social connections as part of an integrated approach to Alzheimer’s care.
 ___________________________________________________
 
-Dataset
+# Dataset
 1. Demographics and Patient Information
    -PatientID: Unique identifier for each patient.
    - Age: Age of the patient, typically used to understand the demographic spread and observe if age correlates with disease severity.
