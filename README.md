@@ -1,4 +1,4 @@
-**Social networks in mild-to-moderate Alzheimer disease: longitudinal relationships with dementia severity, cognitive function, and adverse events**_____________________________________________________
+## **Social networks in mild-to-moderate Alzheimer disease: longitudinal relationships with dementia severity, cognitive function, and adverse events**
 
 
 # The Research Paper
